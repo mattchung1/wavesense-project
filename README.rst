@@ -28,7 +28,8 @@ In order to use the sample, an board with a VL53L0X and AMG88xx connected by
 I2C to an ISP is required. Two outputs from the ISP should be PWM signals running
 to 2 different H-bridges connected to their own motors.
 
-The sample uses sample header files and this file should be placed in 
+The firmware code uses sample header files from Zephyr and this file should be 
+placed in the directory:
 ~/ncs/v2.9.0/zephyr/wavesense-firmware-amg88xx-vl53
 
 References
@@ -73,4 +74,5 @@ Sample Output
   00> Duty Cycle: 90
   00> new sample:
   00> 
+
 
