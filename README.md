@@ -27,4 +27,4 @@ WaveSense/
 │
 └── altium/            # Hardware Design Files
     ├── examples/    # Circuit design and connectivity    
-    └── .Sch / .Pcb        # Component placement and routing
+    └── .Sch / .Pcb    # Component placement and routing
