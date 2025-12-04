@@ -26,6 +26,5 @@ WaveSense/
 │   └── prj.conf       # Kernel configuration (sensor drivers, logging, RTT)
 │
 └── altium/            # Hardware Design Files
-    ├── Schematics/    # Circuit design and connectivity
-    ├── PCB_Layout/    # Component placement and routing
-    └── BOM/           # Bill of Materials
+    ├── examples/    # Circuit design and connectivity    
+    └── .Sch / .Pcb        # Component placement and routing
