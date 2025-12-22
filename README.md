@@ -21,7 +21,7 @@ PCB view for the Wavesense
 
 SCH View for the Wavesense
 
-
+![SCH Layout View](wavesense-project/altium/samples/sampleSch.png)
 
 ## Repository Structure
 
