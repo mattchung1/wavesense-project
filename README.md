@@ -14,6 +14,15 @@ Check out the device in action:
 
 > *Click the image above to watch the demonstration video.*
 
+## Project Files
+PCB view for the Wavesense
+
+![PCB Layout View](wavesense-project/altium/samples/Wavesense.png)
+
+SCH View for the Wavesense
+
+
+
 ## Repository Structure
 
 This repository is organized into two primary engineering domains:
